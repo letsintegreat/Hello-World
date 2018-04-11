@@ -2,6 +2,8 @@
 
 Hello Humans.
 
-Harshit here, I like java, kotlin and  python.
+Harshit here!
 
-I had made a messenger using C Programming Language
+I know C, C++, Java, JavaScript, Python, Kotlin. Though, I like Java, Kotlin.
+
+The Language, on which I worked the most is C.
