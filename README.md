@@ -19,7 +19,13 @@ I know _`Android Development`_, _`Web Development`_, _`C`_, _`C++`_, _`Python`_(
 My Favorite Language is _`Kotlin`_, **That's Amazing**.
 
 Though, I have great experience in _`C`_ Programming Language.<br>
-Right now, I use only _`Kotlin`_, _`Java`_ and a little bit _`Python`_ too.<br>
+Right now, I use 
+
+ - _`Kotlin`_, _`Java`_ and _`XML`_ for _`Android development`_.
+ - _`HTML`_, _`CSS`_ and _`JavaScript`_ for _`Web development`_.
+ - _`C++`_ for _`Competitive Programming`_.
+ - _`Python`_ for all the basics things.
+ 
 I spend most of the time in _`Android development`_ and in learning new things.
 
 **And this is what I do whole day long!**  
