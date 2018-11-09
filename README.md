@@ -13,7 +13,7 @@ ___
  - [CodeForces](http://codeforces.com/profile/DudeCoder)
 ___
 
-Well, I'm playing with machines since 2012, became a Programmer in 2014 and _`C`_ as my first programming language. I spend a lot of time with _`C`_, even I'd a messenger with that.
+Well, I'm playing with machines since 2012, became a Programmer in 2014 and _`C`_ as my first programming language. I spend a lot of time with _`C`_, even I'd made a messenger with that.
 
 Then I moved to _`Java`_ and _`Python`_. And I learnt a little bit of _`Web Development`_ too.<br> But still my hunger was not satisfied.<br>Further I learnt _`Android Development`_, _`JavaScript`_ and _`Kotlin`_ too.
 
