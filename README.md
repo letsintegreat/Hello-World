@@ -7,10 +7,9 @@ Started contributing for Open-source in Oct-2018, getting inspired by [Google Co
 ___
 
 **Useful Links:**
- - [StackOverflow](https://stackoverflow.com/users/9134576/dudecoder?tab=profile)
+ - [StackOverflow](https://stackoverflow.com/users/9134576/zlytherin?tab=profile)
  - [Facebook](https://www.facebook.com/people/Harshit-Sekhsaria/100010673026844)
- - [GitHub](https://www.github.com/HarshitSeksaria)
- - [CodeForces](http://codeforces.com/profile/DudeCoder)
+ - [GitHub](https://www.github.com/Zlytherin)
 ___
 
 Well, I'm playing with machines since 2012, became a Programmer in 2014 and _`C`_ as my first programming language. I spend a lot of time with _`C`_, even I'd made a messenger with that.
