@@ -8,9 +8,14 @@ ___
 
 **Useful Links:**
  - [StackOverflow](https://stackoverflow.com/users/9134576/zlytherin?tab=profile)
+ - [Now in the list of top 50 users in Rajasthan at StackOverflow!](https://data.stackexchange.com/stackoverflow/query/817587/list-of-most-reputed-users-in-a-given-location-case-sensitive?Top=50&Location=Rajasthan)
  - [Facebook](https://www.facebook.com/people/Harshit-Sekhsaria/100010673026844)
  - [GitHub](https://www.github.com/Zlytherin)
+ - [Instagram](https://www.instagram.com/_Zlytherin_)
+ - [Twitter](https://www.twitter.com/_Zlytherin_)
 ___
+
+*More or less an independant android-dev dwelled in the small villages of the largest state.*
 
 Well, I'm playing with machines since 2012, became a Programmer in 2014 and _`C`_ as my first programming language. I spend a lot of time with _`C`_, even I'd made a messenger with that.
 
@@ -24,7 +29,7 @@ I'm a Student right now. But my interest in programming made me a good programme
 I know _`Android Development`_, _`Web Development`_, _`C`_, _`C++`_, _`Python`_(Including _`Django`_, _`Numpy`_, _`Matplotlib`_), _`Java`_, _`JavaScript`_, _`Kotlin`_, _`HTML`_, _`CSS`_, _`XML`_, _`Firebase`_.<br><br>
 My Favorite Language is _`Kotlin`_, **That's Amazing**.
 
-Though, I have great experience in _`C`_ Programming Language.<br>
+
 Right now, I use 
 
  - _`Kotlin`_, _`Java`_ and _`XML`_ for _`Android development`_.
@@ -34,5 +39,5 @@ Right now, I use
  
 I spend most of the time in _`Android development`_ and in learning new things.
 
-**And this is what I do whole day long!**  
-<img src="https://i.stack.imgur.com/MWGjj.gif" />
+
+
