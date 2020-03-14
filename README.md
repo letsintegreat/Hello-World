@@ -7,12 +7,12 @@ Started contributing for Open-source in Oct-2018, getting inspired by [Google Co
 ___
 
 **Useful Links:**
- - [StackOverflow](https://stackoverflow.com/users/9134576/zlytherin?tab=profile)
+ - [StackOverflow](https://stackoverflow.com/users/9134576/letsintegreat?tab=profile)
  - [Now in the list of top 50 users in Rajasthan at StackOverflow!](https://data.stackexchange.com/stackoverflow/query/817587/list-of-most-reputed-users-in-a-given-location-case-sensitive?Top=50&Location=Rajasthan)
- - [Facebook](https://www.facebook.com/people/Harshit-Sekhsaria/100010673026844)
- - [GitHub](https://www.github.com/Zlytherin)
- - [Instagram](https://www.instagram.com/_Zlytherin_)
- - [Twitter](https://www.twitter.com/_Zlytherin_)
+
+ - [GitHub](https://www.github.com/letsintegreat)
+ - [Instagram](https://www.instagram.com/letsintegreat)
+
 ___
 
 *More or less an independant android-dev dwelled in the small villages of the largest state.*
